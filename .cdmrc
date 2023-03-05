@@ -1,2 +1,2 @@
-tabs: ['README.md', 'main.py']
+tabs: ['script.py']
 playground-view: terminal-editor-browser
