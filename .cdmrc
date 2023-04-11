@@ -1,2 +1,2 @@
 tabs: ['script.py']
-
+terminals: ['pip3 install flask']
