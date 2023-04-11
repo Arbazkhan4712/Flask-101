@@ -1,2 +1,2 @@
 tabs: ['README.md', 'main.py']
-terminals: ["pip3 install flask"]
+terminals: ['pip3 install flask']
